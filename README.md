@@ -2,7 +2,7 @@
 
 **`Mestrando em Ciência da Computação | Inteligência Computacional e Aprendizado de Máquina`**
 
-Atualmente, sou mestrando em Ciência da Computação na UFSC, com pesquisa focada em **RAG (Retrieval-Augmented Generation)** e detecção de fake news utilizando aprendizado de máquina. Tenho formação em jornalismo e estou aprofundando meus estudos em inteligência computacional.
+Atualmente, sou mestrando em Ciência da Computação na UFSC, com pesquisa focada em **RAG (Retrieval-Augmented Generation)** e detecção de fake news utilizando aprendizado de máquina. Tenho formação em jornalismo e estou explorando novos conhecimentos com estudos no campo da Inteligência Artificial.
 
 ---
 
