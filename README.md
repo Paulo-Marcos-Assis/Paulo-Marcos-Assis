@@ -1,8 +1,8 @@
 # 👨‍💻 Paulo Marcos
 
-**`Mestrando em Ciência da Computação | Inteligência Computacional e Aprendizado de Máquina`**
+**`Mestrando em Ciência da Computação | Aprendizado de Máquina e NLP`**
 
-Mestrando em Ciência da Computação na UFSC, com pesquisa focada em **RAG (Retrieval-Augmented Generation)** e detecção de fake news utilizando aprendizado de máquina. Tenho formação em jornalismo e estou explorando novos conhecimentos com estudos no campo da Inteligência Artificial.
+Mestrando em Ciência da Computação na Universidade Federal de Santa Catarina, com pesquisa focada em **Machine Learning e Natural Language Processing**, utilizando técnicas como **RAG (Retrieval-Augmented Generation)** para a extração de informações de textos de notícias relacionadas a irregularidades e fraudes em processos licitatórios de compras públicas. O objetivo da pesquisa tem como finalidade a colaboração com o Ministério Público de Santa Catarina, através do **Projeto Céos**, que desenvolve ferramentas baseadas em Inteligência Artificial para aprimorar o trabalho das Promotorias de Justiça do estado de Santa Catarina. Tenho formação em jornalismo e estou explorando novos conhecimentos com estudos no campo da Inteligência Artificial.
 
 ---
 
